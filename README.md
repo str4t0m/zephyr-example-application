@@ -13,7 +13,8 @@
   <img alt="API Documentation" src="https://img.shields.io/badge/API-documentation-3D578C?logo=c&logoColor=white">
 </a>
 
-This repository contains a Zephyr example application. The main purpose of this
+This repository contains a Zephyr example application for tests only.
+The main purpose of this
 repository is to serve as a reference on how to structure Zephyr-based
 applications. Some of the features demonstrated in this example are:
 
